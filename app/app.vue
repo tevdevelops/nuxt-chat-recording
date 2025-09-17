@@ -1,6 +1,6 @@
 <template>
   <UApp>
     <NuxtRouteAnnouncer />
-    <UButton>Test Button</UButton>
+    <NuxtPage />
   </UApp>
 </template>
